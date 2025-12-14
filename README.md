@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jesus Villalba
 
-Freelance Web Developer specializing in custom web applications.
+Freelance Web Developer specializing in custom web applications. 
 
 ### 💼 What I do
 - Business web applications
@@ -17,5 +17,5 @@ Freelance Web Developer specializing in custom web applications.
 ### 🌍 Working remotely
 Based in Uruguay, available for remote freelance projects.
 
-🔗 Website: https://jesusvillalba.com
+🔗 Website: https://jesusvillalba.com (I lost my previous GitHub profile, so all my projects are there.😒 )
 🔗 LinkedIn: https://www.linkedin.com/in/jesus-villalba-81725631a/
