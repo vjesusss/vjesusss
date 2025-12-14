@@ -9,8 +9,8 @@ Freelance Web Developer specializing in custom web applications.
 - Production systems and internal tools
 
 ### 🛠 Tech Stack
-- Backend: .NET, C#, APIs
-- Frontend: HTML, CSS, JavaScript
+- Backend: .NET, C#, APIs, PHP, NodeJs
+- Frontend: HTML, CSS, ReactJs
 - Databases: SQL Server
 - Tools: Git, GitHub, Visual Studio
 
