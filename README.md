@@ -18,4 +18,4 @@ Freelance Web Developer specializing in custom web applications.
 Based in Uruguay, available for remote freelance projects.
 
 🔗 Website: https://jesusvillalba.com
-🔗 LinkedIn: (tu LinkedIn)
+🔗 LinkedIn: https://www.linkedin.com/in/jesus-villalba-81725631a/
