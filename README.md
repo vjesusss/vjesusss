@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Jesus Villalba
 
-<!--
-**vjesusss/vjesusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Web Developer specializing in custom web applications.
 
-Here are some ideas to get you started:
+### 💼 What I do
+- Business web applications
+- Legacy system modernization
+- Full-stack development
+- Production systems and internal tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Backend: .NET, C#, APIs
+- Frontend: HTML, CSS, JavaScript
+- Databases: SQL Server
+- Tools: Git, GitHub, Visual Studio
+
+### 🌍 Working remotely
+Based in Uruguay, available for remote freelance projects.
+
+🔗 Website: https://jesusvillalba.com
+🔗 LinkedIn: (tu LinkedIn)
